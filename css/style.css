@@ -8,7 +8,7 @@ body {
   height: 100vh;
   overflow: hidden;
   font-family: 'Roboto', sans-serif;
-  background: url(https://github.com/supahfunk/gradientwaves-svg/blob/master/dist/img/bg-gradient-wave.png?raw=true) repeat center/cover;
+  background: url(../img/bg-gradient-wave.png) repeat center/cover;
 }
 
 svg {
